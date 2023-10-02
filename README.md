@@ -38,10 +38,16 @@ Este projeto utiliza as seguintes tecnologias:
 A estrutura de arquivos deste projeto é organizada da seguinte maneira:
 
 - index.html: O arquivo HTML principal que contém a estrutura da página.
-- src/: Uma pasta que contém arquivos de recursos, como imagens e CSS.
+- src/imagens: Uma pasta que contém arquivos de recursos, como imagens e vídeos.
 - src/css/: A pasta que contém os arquivos CSS para estilizar a página.
 - src/js/: A pasta que contém o arquivo JavaScript para interatividade.
 - manifest.json: O arquivo de manifesto PWA (Progressive Web App) para configurações de aplicativo da web.
 
 ## Licença
-Este projeto está sob a Licença MIT.
+
+Este projeto está sob a [Licença MIT](LICENSE).
+
+---
+
+Feito por Rafael de Almeida Sobrinho.
+
