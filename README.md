@@ -4,7 +4,7 @@ Este é um projeto de página da web que apresenta os 5 carros favoritos da Pors
 
 ## Demonstração
 
-Você pode ver uma demonstração ao vivo deste projeto [aqui]([URL_DE_DEMONSTRAÇÃO](https://rafael-sobrinho.github.io/projeto-porsche/)).
+Você pode ver uma demonstração ao vivo deste projeto [aqui](https://rafael-sobrinho.github.io/projeto-porsche/).
 
 ## Conteúdo
 
@@ -26,4 +26,22 @@ Este projeto utiliza as seguintes tecnologias:
 1. Clone este repositório:
 
    ```bash
-   git clone [URL_DO_REPOSITÓRIO](https://github.com/rafael-sobrinho/projeto-porsche)https://github.com/rafael-sobrinho/projeto-porsche
+   git clone [URL_DO_REPOSITÓRIO](https://github.com/rafael-sobrinho/projeto-porsche)
+
+1. Abra o arquivo index.html em seu navegador.
+
+2. Clique nos botões à direita para selecionar o carro que deseja visualizar.
+
+3. Desfrute de vídeos e informações sobre os carros da Porsche!
+
+## Estrutura de Arquivos
+A estrutura de arquivos deste projeto é organizada da seguinte maneira:
+
+- index.html: O arquivo HTML principal que contém a estrutura da página.
+- src/: Uma pasta que contém arquivos de recursos, como imagens e CSS.
+- src/css/: A pasta que contém os arquivos CSS para estilizar a página.
+- src/js/: A pasta que contém o arquivo JavaScript para interatividade.
+- manifest.json: O arquivo de manifesto PWA (Progressive Web App) para configurações de aplicativo da web.
+
+## Licença
+Este projeto está sob a Licença MIT.
