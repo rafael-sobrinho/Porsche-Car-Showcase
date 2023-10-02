@@ -26,7 +26,7 @@ Este projeto utiliza as seguintes tecnologias:
 1. Clone este repositório:
 
    ```bash
-   git clone [URL_DO_REPOSITÓRIO](https://github.com/rafael-sobrinho/projeto-porsche)
+   git clone https://github.com/rafael-sobrinho/projeto-porsche
 
 1. Abra o arquivo index.html em seu navegador.
 
