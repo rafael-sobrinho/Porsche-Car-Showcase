@@ -1,7 +1,7 @@
 @media (max-width: 769px) {
     main::after {
-        background: linear-gradient(0deg, #000 20%, rgba(0, 0, 0, 0.00) 65%) no-repeat;
         width: 100vw;
+        height: 100vh;
     }
 
     main .modelo .imagem {
@@ -13,7 +13,7 @@
         left: 0;
         top: -20%;
         max-width: 100vw;
-        padding: 30px;
+        padding: 10px;
     }
 
     .conteudo .nome-modelo {
@@ -25,10 +25,13 @@
     }
 
     .botoes {
+        background-color: rgba(0, 0, 0, 0.0);
+        bottom: 0;
         flex-direction: row;
         align-items: flex-end;
         width: 100%;
         padding: 30px;
+        gap: 15px;
     }
 
     .botoes .botao img {

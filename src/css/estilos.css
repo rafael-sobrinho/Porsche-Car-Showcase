@@ -31,26 +31,26 @@ main .modelo .video {
 .conteudo {
     position: absolute;
     top: 0;
-    left: 120px;
+    left: 90px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     min-height: 100vh;
-    max-width: 380px;
+    max-width: 445px;
     z-index: 1;
 }
 
 .conteudo .nome-modelo {
     color: #ffffff;
     font-size: 48px;
-    font-family: "Secular One";
+    font-family: "Exo 2";
     font-weight: 400;
     margin-bottom: 20px;
 }
 
 .conteudo .descricao {
     color: #ffffff;
-    font-family: "Rubik";
+    font-family: "Exo 2";
     line-height: 24px;
 }
 
@@ -79,10 +79,15 @@ main .modelo .video {
     border: none;
     background: none;
     cursor: pointer;
-    border-radius: 50%;
 }
 
 .extenso {
     height: 24,5px;
     width: 120px;
+}
+
+.logo-topo {
+    position: fixed;
+    top: 8%;
+    right: 1%;
 }
