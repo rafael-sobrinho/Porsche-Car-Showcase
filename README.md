@@ -45,7 +45,7 @@ A estrutura de arquivos deste projeto é organizada da seguinte maneira:
 
 ## Licença
 
-Este projeto está sob a [Licença MIT](LICENSE.md).
+Este projeto está sob a [Licença MIT](LICENSE.txt).
 
 ---
 
