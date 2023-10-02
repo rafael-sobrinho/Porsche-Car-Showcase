@@ -91,3 +91,41 @@ main .modelo .video {
     top: 8%;
     right: 1%;
 }
+
+.link-button {
+    margin-top: 20px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    min-width: 54px;
+    min-height: 54px;
+    box-sizing: border-box;
+    outline: 0px;
+    text-align: left;
+    appearance: none;
+    text-decoration: none;
+    border: 1px solid rgb(251, 252, 255);
+    border-radius: 4px;
+    transform: translate3d(0px, 0px, 0px);
+    background-color: transparent;
+    color: rgb(251, 252, 255);
+    font: 400 1rem / calc(6px + 2.125ex) "Exo 2";
+    overflow-wrap: break-word;
+    hyphens: auto;
+    padding: 13px 26px;
+    gap: 8px;
+}
+
+.link-button:hover {
+
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+.link-name {
+    color: #ccc;
+}
+
+.link-name:hover {
+    color: #ffffff;
+}
