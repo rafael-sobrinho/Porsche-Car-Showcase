@@ -4,7 +4,7 @@ Este é um projeto de página da web que apresenta os 5 carros favoritos da Pors
 
 ## Demonstração
 
-Você pode ver uma demonstração ao vivo deste projeto [aqui](https://rafael-sobrinho.github.io/projeto-porsche/).
+Você pode ver uma demonstração ao vivo deste projeto [aqui](https://rafael-sobrinho.github.io/Porsche-Car-Showcase/).
 
 ## Conteúdo
 
