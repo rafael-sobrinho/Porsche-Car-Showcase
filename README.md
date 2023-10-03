@@ -1,6 +1,6 @@
 # Porsche Car Showcase
 
-Este é um projeto de página da web que apresenta os 5 carros favoritos da Porsche. Cada carro é exibido em um vídeo de fundo com um breve texto descritivo. Você pode clicar nos botões à direita para selecionar o carro que deseja ver.
+Este é um projeto de página da web que apresenta meus 5 carros favoritos da Porsche. Cada carro é exibido em um vídeo de fundo com um breve texto descritivo. Você pode clicar nos botões à direita para selecionar o carro que deseja ver.
 
 ## Demonstração
 
