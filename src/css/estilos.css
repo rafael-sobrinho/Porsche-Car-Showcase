@@ -118,14 +118,12 @@ main .modelo .video {
 }
 
 .link-button:hover {
-
-    background-color: rgba(0, 0, 0, 0.2);
+    color: rgb(251, 252, 255);
+    background-color: rgba(148, 149, 152, 0.18);
+    border-color: rgb(136, 137, 140);
+    backdrop-filter: blur(32px);
 }
 
 .link-name {
-    color: #ccc;
-}
-
-.link-name:hover {
     color: #ffffff;
 }
